@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/function-marketplace/static/js/main.e54e4391.chunk.js",
-    "main.js.map": "/function-marketplace/static/js/main.e54e4391.chunk.js.map",
+    "main.js": "/function-marketplace/static/js/main.3970e6c3.chunk.js",
+    "main.js.map": "/function-marketplace/static/js/main.3970e6c3.chunk.js.map",
     "runtime-main.js": "/function-marketplace/static/js/runtime-main.ee48f2ec.js",
     "runtime-main.js.map": "/function-marketplace/static/js/runtime-main.ee48f2ec.js.map",
     "static/js/2.ccab0636.chunk.js": "/function-marketplace/static/js/2.ccab0636.chunk.js",
@@ -44,6 +44,6 @@
   "entrypoints": [
     "static/js/runtime-main.ee48f2ec.js",
     "static/js/2.ccab0636.chunk.js",
-    "static/js/main.e54e4391.chunk.js"
+    "static/js/main.3970e6c3.chunk.js"
   ]
 }
